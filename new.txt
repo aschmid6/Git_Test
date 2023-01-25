@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is new and improved
+=======
+this is new and improved and
+>>>>>>> 434b276548c1acd6f0ae0df6acc0da6b2edc3c2f
